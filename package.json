@@ -1,11 +1,30 @@
 {
   "name": "@arzxd/baileys",
   "version": "1.0.0",
-  "description": "Powerful Baileys wrapper with modern WhatsApp Web features \u2014 QR pairing, buttons, lists, polls, reactions, vCards, and more.",
+  "description": "Powerful Baileys wrapper with modern WhatsApp Web features — QR pairing, buttons, lists, polls, reactions, vCards, and more.",
   "main": "index.js",
   "type": "module",
   "author": "ArzXD",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArzXD/Baileys.git"
+  },
+  "homepage": "https://github.com/ArzXD/Baileys#readme",
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "whatsapp-web",
+    "qrcode",
+    "poll",
+    "button",
+    "reaction",
+    "vcard",
+    "ArzXD"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.10",
     "pino": "^8.17.0"
