@@ -1,5 +1,5 @@
 {
-  "name": "@ArzXD/Baileys",
+  "name": "@arzxd/baileys",
   "version": "1.0.0",
   "description": "Powerful Baileys wrapper with modern WhatsApp Web features \u2014 QR pairing, buttons, lists, polls, reactions, vCards, and more.",
   "main": "index.js",
